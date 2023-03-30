@@ -1,11 +1,4 @@
 -- phpMyAdmin SQL Dump
--- version 4.6.6deb5
--- https://www.phpmyadmin.net/
---
--- Host: localhost:3306
--- Generation Time: Mar 27, 2019 at 07:33 PM
--- Server version: 10.1.38-MariaDB-0ubuntu0.18.04.1
--- PHP Version: 7.2.15-0ubuntu0.18.04.1
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -17,7 +10,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `veddegre_auth`
+-- Database: `auth`
 --
 
 -- --------------------------------------------------------
